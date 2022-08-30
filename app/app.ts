@@ -9,4 +9,3 @@ formulario.addEventListener('submit', (evento) => {
 
     controller.adiciona();
 });
-
